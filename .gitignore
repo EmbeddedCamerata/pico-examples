@@ -5,3 +5,10 @@ cmake-*
 build
 .DS_Store
 *.pdf
+CMakeFiles
+CMakeCache*
+*.cmake
+Makefile
+generated
+pico-sdk
+benchmark/dhry*
